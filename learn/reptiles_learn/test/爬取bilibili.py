@@ -58,4 +58,3 @@ command = r"ffmpeg -i test.mp4 -i test.mp3 -acodec copy -vcodec copy testout.mp4
 os.system(command=command)
 
 # 做到这一步即成功了！！！！
-111
